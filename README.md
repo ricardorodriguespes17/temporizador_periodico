@@ -31,3 +31,5 @@ Caso deseje testar a simulação no Wokwi, siga os seguintes passos:
 2. Crie um novo projeto com o Raspberry Pi Pico
 3. Configure os LEDs conforme a descrição acima
 4. Carregue o código para testar a funcionalidade
+
+**Obs.:** O diagram.json já está criado para suportar o programa.
